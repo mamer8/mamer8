@@ -6,11 +6,11 @@
 
 ## 🙋‍♂ About Me:
 
-- 🔭 I’m currently working as a *Software Engineer 💻* | *Mobile Application Developer 📱* | *Instructor* .
+- 🔭 I’m currently working as a *Software Engineer 💻* | *Mobile Application Developer 📱* .
 
 - 🌱 I’m currently learning *Advanced Flutter*.
 
-- 👨‍💻 All of my projects are available at *[My Repository](https://github.com/NehalElsamoly?tab=repositories)*.
+- 👨‍💻 All of my projects are available at *[My Repository](https://github.com/mamer8?tab=repositories)*.
 
 <br>
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
@@ -34,19 +34,13 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/nehal-elsamoly-5a6977202/" target="_blank">
+    <a href="https://www.linkedin.com/in/mamer8" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:nehalelsamoly123@gmail.com">
+  <a href="mailto:mahmoud74amer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://myportofolio-e4d89.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://www.youtube.com/channel/UC7ZV_0avpuVoESi7Ku43T5w">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-   
+       
 </div>
 
 <br>
