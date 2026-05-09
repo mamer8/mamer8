@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋;I'm+Mahmoud+Amer;Flutter+Developer+📱;Mobile+Apps+Engineer+💻;Building+Apps+That+Matter+🚀" />
@@ -23,10 +22,6 @@ Firebase • REST APIs • Odoo Integration • Payments • Google Maps • Pus
 
 <a href="mailto:mahmoud74amer@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://amer.octopusteam.net/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -73,32 +68,6 @@ Firebase • REST APIs • Odoo Integration • Payments • Google Maps • Pus
 - Payment Gateways
 - Local Databases
 - App Store & Google Play Publishing
-
----
-
-# 💼 Experience
-
-### 🚀 TOP BUSINESS
-**Flutter Developer**  
-📅 Dec 2023 - Present
-
----
-
-### 🐙 Octopus Team
-**Co-Founder & CPO**  
-📅 2024 - Present
-
----
-
-### 💻 WORD REWARD
-**Flutter Developer - Part Time**  
-📅 Apr 2024 - Apr 2025
-
----
-
-### 📱 COD LOP
-**Flutter Developer Trainee**  
-📅 Aug 2022 - Aug 2023
 
 ---
 
@@ -171,18 +140,6 @@ Modern Flutter E-commerce Application.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=mamer8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://amer.octopusteam.net/" target="_blank">
-<img src="https://img.shields.io/badge/View_My_Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
 
 </div>
 
