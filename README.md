@@ -154,7 +154,7 @@ Educational platform for teachers:
 
 <div align="center">
 
-![snake gif](https://github.com/mamer8/mamer8/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mamer8/mamer8/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
