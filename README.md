@@ -1,46 +1,219 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+There!+👋;I'm+Mahmoud+Amer;Flutter+Developer+📱;Building+Mobile+Apps+That+Matter+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋;I'm+Mahmoud+Amer;Flutter+Developer+📱;Mobile+Apps+Engineer+💻;Building+Apps+That+Matter+🚀" />
 
 </div>
 
-<h3 align="center">
-Flutter Developer | Mobile Apps Engineer | Firebase • APIs • Odoo • Payments
-</h3>
+<h2 align="center">🚀 Flutter Developer | Mobile Apps Engineer</h2>
 
 <p align="center">
 I build clean, scalable, and high-performance mobile applications for Android & iOS using Flutter.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🚀 Flutter Developer with **+3 years of experience**
-- 💼 Currently working at **TOP BUSINESS**
-- 🐙 Co-Founder & CPO at **Octopus Team**
-- 📱 Specialized in **cross-platform mobile apps**
-- 🔥 Experienced in real business apps: E-commerce, Logistics, Education, ERP integrations
-- 🌱 Currently improving my skills in **Advanced Flutter & Clean Architecture**
-
----
-
-## 🛠 Tech Stack
+<p align="center">
+Firebase • REST APIs • Odoo Integration • Payments • Google Maps • Push Notifications
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,github,git,androidstudio,vscode,figma,postman,xcode" />
+<a href="https://www.linkedin.com/in/mamer8" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mahmoud74amer@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://amer.octopusteam.net/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Flutter Developer with **+3 years of experience**
+- 💼 Currently working as a Flutter Developer at **TOP BUSINESS**
+- 🐙 Co-Founder & CPO at **Octopus Team**
+- 📱 Specialized in cross-platform mobile applications
+- 🚀 Built real business applications in E-commerce, Logistics, Education, and ERP integrations
+- 🔥 Experienced with Firebase, REST APIs, Odoo, Payment Gateways, Maps, and Notifications
+- 🌱 Currently learning Advanced Flutter & Clean Architecture
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman,xcode" />
 
 </div>
 
 ---
 
-## ⚡ What I Work With
+# ⚡ Skills & Tools
 
-```txt
-Flutter • Dart • Firebase • REST APIs • Dio
-Cubit • Provider • Clean Architecture
-Google Maps • Live Tracking • Push Notifications
-Odoo API Integration • Paymob • HyperPay
-Local Storage • Sqflite • Shared Preferences • Hive
-App Store • Google Play • UI Implementation
+- Flutter & Dart
+- Firebase Services
+- REST APIs & Dio
+- Cubit & Provider
+- Google Maps & Live Tracking
+- Odoo Integration
+- Push Notifications
+- Payment Gateways
+- Local Databases
+- App Store & Google Play Publishing
+
+---
+
+# 💼 Experience
+
+### 🚀 TOP BUSINESS
+**Flutter Developer**  
+📅 Dec 2023 - Present
+
+---
+
+### 🐙 Octopus Team
+**Co-Founder & CPO**  
+📅 2024 - Present
+
+---
+
+### 💻 WORD REWARD
+**Flutter Developer - Part Time**  
+📅 Apr 2024 - Apr 2025
+
+---
+
+### 📱 COD LOP
+**Flutter Developer Trainee**  
+📅 Aug 2022 - Aug 2023
+
+---
+
+# 📱 Featured Projects
+
+## 🍤 Maxim SeaFood
+
+E-commerce mobile application built with Flutter.
+
+### Features:
+- Product Categories
+- Cart & Checkout
+- Order History
+- Live Order Tracking
+- Responsive UI
+- Android & iOS Release
+
+---
+
+## 🚚 Baraddy.com
+
+Logistics and GPS tracking application.
+
+### Features:
+- Live Tracking
+- Delivery Management
+- Google Maps Integration
+- Real-time Updates
+
+---
+
+## 🛒 Shopia
+
+Modern Flutter E-commerce Application.
+
+### Features:
+- Product Listing
+- Cart System
+- Checkout Flow
+- API Integration
+- Responsive UI
+
+---
+
+# 🧩 What I Can Build
+
+- ✔ E-commerce Apps
+- ✔ Delivery Apps
+- ✔ Educational Apps
+- ✔ ERP/Odoo Apps
+- ✔ Firebase Apps
+- ✔ Tracking Apps
+- ✔ Payment Integrated Apps
+- ✔ Android & iOS Production Apps
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mamer8&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamer8&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamer8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://amer.octopusteam.net/" target="_blank">
+<img src="https://img.shields.io/badge/View_My_Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mamer8" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Amer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mahmoud74amer@gmail.com">
+<img src="https://img.shields.io/badge/Email-mahmoud74amer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mamer8&style=for-the-badge&color=38BDF8" />
+
+</div>
+
+<br>
+
+<h3 align="center">
+Thanks for visiting ❤️
+<br>
+Let’s build something amazing 🚀
+</h3>
